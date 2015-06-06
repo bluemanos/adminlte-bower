@@ -30,7 +30,7 @@
     "bootstrap": "~3.3.4",
     "html5shiv": "~3.7.2",
     "respond": "~1.4.2",
-    "components-font-awesome": "*",
+    "components-font-awesome": "^4.3",
     "ionicons": "*",
     "seiyria-bootstrap-slider": "~4.8.2",
     "bootstrap3-wysihtml5-bower": "~0.3.3",
