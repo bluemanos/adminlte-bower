@@ -141,6 +141,8 @@ by
     <script src="../adminlte-bower/bower_components/fastclick/lib/fastclick.js"></script>
 ```
 
+** (!!) remember to change path to your bower components **
+
 ### Knowig issues
 
 * jQquery spark dont have bower repository
